@@ -1,2 +1,3 @@
-# Chat-messanger
-free
+fastapi
+uvicorn[standard]
+pynacl
